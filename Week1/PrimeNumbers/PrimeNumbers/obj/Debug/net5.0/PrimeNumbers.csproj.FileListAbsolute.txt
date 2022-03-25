@@ -1,0 +1,16 @@
+E:\ders notları\PATİKA\Kodluyoruz, C# ile .NET Core Bootcamp\Week1\PrimeNumbers\PrimeNumbers\bin\Debug\net5.0\PrimeNumbers.exe
+E:\ders notları\PATİKA\Kodluyoruz, C# ile .NET Core Bootcamp\Week1\PrimeNumbers\PrimeNumbers\bin\Debug\net5.0\PrimeNumbers.deps.json
+E:\ders notları\PATİKA\Kodluyoruz, C# ile .NET Core Bootcamp\Week1\PrimeNumbers\PrimeNumbers\bin\Debug\net5.0\PrimeNumbers.runtimeconfig.json
+E:\ders notları\PATİKA\Kodluyoruz, C# ile .NET Core Bootcamp\Week1\PrimeNumbers\PrimeNumbers\bin\Debug\net5.0\PrimeNumbers.runtimeconfig.dev.json
+E:\ders notları\PATİKA\Kodluyoruz, C# ile .NET Core Bootcamp\Week1\PrimeNumbers\PrimeNumbers\bin\Debug\net5.0\PrimeNumbers.dll
+E:\ders notları\PATİKA\Kodluyoruz, C# ile .NET Core Bootcamp\Week1\PrimeNumbers\PrimeNumbers\bin\Debug\net5.0\ref\PrimeNumbers.dll
+E:\ders notları\PATİKA\Kodluyoruz, C# ile .NET Core Bootcamp\Week1\PrimeNumbers\PrimeNumbers\bin\Debug\net5.0\PrimeNumbers.pdb
+E:\ders notları\PATİKA\Kodluyoruz, C# ile .NET Core Bootcamp\Week1\PrimeNumbers\PrimeNumbers\obj\Debug\net5.0\PrimeNumbers.csproj.AssemblyReference.cache
+E:\ders notları\PATİKA\Kodluyoruz, C# ile .NET Core Bootcamp\Week1\PrimeNumbers\PrimeNumbers\obj\Debug\net5.0\PrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\ders notları\PATİKA\Kodluyoruz, C# ile .NET Core Bootcamp\Week1\PrimeNumbers\PrimeNumbers\obj\Debug\net5.0\PrimeNumbers.AssemblyInfoInputs.cache
+E:\ders notları\PATİKA\Kodluyoruz, C# ile .NET Core Bootcamp\Week1\PrimeNumbers\PrimeNumbers\obj\Debug\net5.0\PrimeNumbers.AssemblyInfo.cs
+E:\ders notları\PATİKA\Kodluyoruz, C# ile .NET Core Bootcamp\Week1\PrimeNumbers\PrimeNumbers\obj\Debug\net5.0\PrimeNumbers.csproj.CoreCompileInputs.cache
+E:\ders notları\PATİKA\Kodluyoruz, C# ile .NET Core Bootcamp\Week1\PrimeNumbers\PrimeNumbers\obj\Debug\net5.0\PrimeNumbers.dll
+E:\ders notları\PATİKA\Kodluyoruz, C# ile .NET Core Bootcamp\Week1\PrimeNumbers\PrimeNumbers\obj\Debug\net5.0\ref\PrimeNumbers.dll
+E:\ders notları\PATİKA\Kodluyoruz, C# ile .NET Core Bootcamp\Week1\PrimeNumbers\PrimeNumbers\obj\Debug\net5.0\PrimeNumbers.pdb
+E:\ders notları\PATİKA\Kodluyoruz, C# ile .NET Core Bootcamp\Week1\PrimeNumbers\PrimeNumbers\obj\Debug\net5.0\PrimeNumbers.genruntimeconfig.cache
