@@ -23,7 +23,7 @@ namespace AdamAsmaca
             string[] words = { "ayna", "masa", "tarantula", "endoplazmikretikulum" };
             while (!isGameOver)
             {
-             
+                int score = 5;// oyundaki kalan canımız
                 string selectedWord = chooseWord(words);
                 string puzzle = replaceToStar(selectedWord);
 
@@ -38,6 +38,22 @@ namespace AdamAsmaca
                     {
                         puzzle = replaceStarToLetter(selectedWord, puzzle, letter);
                         Console.WriteLine(puzzle);
+                        Console.WriteLine("Kalan hakkınız: " + score);//kalan hakkı gösterme
+                    }
+
+                     else
+                    {
+                        score--;//oyuncu eğer yanlış harf girerse hakkı azalıyor
+                        if (hak > 0)// hakkı sıfırdan büyükse ekrana yazdırma
+                        {
+                            Console.WriteLine("Kalan hakkınız: " + score);
+                        }
+                        else// oyunda kalan hak bitince ekrana yazdırma ve döngüyü break ile sonlandırma
+                        {
+                            Console.WriteLine("Kaybettin :( ");
+                            break;
+                        }
+
                     }
                    
                     Console.WriteLine("Kelimeyi tahmin etmek ister misin? (E/H)");
