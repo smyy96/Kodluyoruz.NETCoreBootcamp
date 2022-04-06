@@ -79,6 +79,8 @@ namespace BuiltInMethods
                 Console.WriteLine(mailAdrees);
             }
 
+
+
             List<string> cities = new List<string>() { "Ankara", "Ankara", "Ankara", "Sinop", "İstanbul", "İstanbul", "Eskişehir", "Ankara" };
 
             //Ödev cities listesinde tekrarlayan kayıtların sadece 1 kere yazılması.
