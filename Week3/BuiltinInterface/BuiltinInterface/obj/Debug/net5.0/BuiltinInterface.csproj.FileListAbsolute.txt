@@ -1,0 +1,16 @@
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week3\BuiltinInterface\BuiltinInterface\bin\Debug\net5.0\BuiltinInterface.exe
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week3\BuiltinInterface\BuiltinInterface\bin\Debug\net5.0\BuiltinInterface.deps.json
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week3\BuiltinInterface\BuiltinInterface\bin\Debug\net5.0\BuiltinInterface.runtimeconfig.json
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week3\BuiltinInterface\BuiltinInterface\bin\Debug\net5.0\BuiltinInterface.runtimeconfig.dev.json
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week3\BuiltinInterface\BuiltinInterface\bin\Debug\net5.0\BuiltinInterface.dll
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week3\BuiltinInterface\BuiltinInterface\bin\Debug\net5.0\ref\BuiltinInterface.dll
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week3\BuiltinInterface\BuiltinInterface\bin\Debug\net5.0\BuiltinInterface.pdb
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week3\BuiltinInterface\BuiltinInterface\obj\Debug\net5.0\BuiltinInterface.csproj.AssemblyReference.cache
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week3\BuiltinInterface\BuiltinInterface\obj\Debug\net5.0\BuiltinInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week3\BuiltinInterface\BuiltinInterface\obj\Debug\net5.0\BuiltinInterface.AssemblyInfoInputs.cache
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week3\BuiltinInterface\BuiltinInterface\obj\Debug\net5.0\BuiltinInterface.AssemblyInfo.cs
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week3\BuiltinInterface\BuiltinInterface\obj\Debug\net5.0\BuiltinInterface.csproj.CoreCompileInputs.cache
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week3\BuiltinInterface\BuiltinInterface\obj\Debug\net5.0\BuiltinInterface.dll
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week3\BuiltinInterface\BuiltinInterface\obj\Debug\net5.0\ref\BuiltinInterface.dll
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week3\BuiltinInterface\BuiltinInterface\obj\Debug\net5.0\BuiltinInterface.pdb
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week3\BuiltinInterface\BuiltinInterface\obj\Debug\net5.0\BuiltinInterface.genruntimeconfig.cache
