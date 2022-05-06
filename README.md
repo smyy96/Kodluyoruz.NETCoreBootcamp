@@ -10,4 +10,5 @@ Kodluyoruz eğitim platformundaki .Net core bootcamp'deki ödevleri ve pratikler
 - 2.Hafta
   - Adam Asmaca oyununun tamamlanması.
 - 3.Hafta
+  - [OOP](https://github.com/smyy96/OOP)
   - Interface, Delegate
