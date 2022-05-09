@@ -12,3 +12,7 @@ Kodluyoruz eğitim platformundaki .Net core bootcamp'deki ödevleri ve pratikler
 - 3.Hafta
   - [OOP](https://github.com/smyy96/OOP)
   - Interface, Delegate
+- 4.Hafta
+  - Extension Methods
+  - Linq
+  - Web API
