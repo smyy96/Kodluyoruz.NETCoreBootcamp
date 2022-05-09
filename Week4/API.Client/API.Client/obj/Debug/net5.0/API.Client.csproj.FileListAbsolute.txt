@@ -1,0 +1,16 @@
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week4\API.Client\API.Client\bin\Debug\net5.0\API.Client.exe
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week4\API.Client\API.Client\bin\Debug\net5.0\API.Client.deps.json
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week4\API.Client\API.Client\bin\Debug\net5.0\API.Client.runtimeconfig.json
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week4\API.Client\API.Client\bin\Debug\net5.0\API.Client.runtimeconfig.dev.json
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week4\API.Client\API.Client\bin\Debug\net5.0\API.Client.dll
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week4\API.Client\API.Client\bin\Debug\net5.0\ref\API.Client.dll
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week4\API.Client\API.Client\bin\Debug\net5.0\API.Client.pdb
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week4\API.Client\API.Client\obj\Debug\net5.0\API.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week4\API.Client\API.Client\obj\Debug\net5.0\API.Client.AssemblyInfoInputs.cache
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week4\API.Client\API.Client\obj\Debug\net5.0\API.Client.AssemblyInfo.cs
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week4\API.Client\API.Client\obj\Debug\net5.0\API.Client.csproj.CoreCompileInputs.cache
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week4\API.Client\API.Client\obj\Debug\net5.0\API.Client.dll
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week4\API.Client\API.Client\obj\Debug\net5.0\ref\API.Client.dll
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week4\API.Client\API.Client\obj\Debug\net5.0\API.Client.pdb
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week4\API.Client\API.Client\obj\Debug\net5.0\API.Client.genruntimeconfig.cache
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week4\API.Client\API.Client\obj\Debug\net5.0\API.Client.csproj.AssemblyReference.cache
