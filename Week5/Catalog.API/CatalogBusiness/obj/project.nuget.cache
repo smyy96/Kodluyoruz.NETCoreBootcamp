@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "hGLuCpbEXa6H06bcdmiHhej6E6pEymMrcLeMicdIGiGRAF77oJvmsDBRPT5kkTdrvTU7mQuyOmb9cgtz0IILHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sumeyye\\source\\repos\\Kodluyoruz.NETCoreBootcamp\\Week5\\Catalog.API\\CatalogBusiness\\Catalog.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sumeyye\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\Sumeyye\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\Sumeyye\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Sumeyye\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Sumeyye\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Sumeyye\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Sumeyye\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

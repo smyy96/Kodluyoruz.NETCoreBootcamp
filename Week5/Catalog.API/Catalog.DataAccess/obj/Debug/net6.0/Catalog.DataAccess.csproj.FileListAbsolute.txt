@@ -1,0 +1,15 @@
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week5\Catalog.API\Catalog.DataAccess\obj\Debug\net6.0\Catalog.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week5\Catalog.API\Catalog.DataAccess\obj\Debug\net6.0\Catalog.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week5\Catalog.API\Catalog.DataAccess\obj\Debug\net6.0\Catalog.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week5\Catalog.API\Catalog.DataAccess\obj\Debug\net6.0\Catalog.DataAccess.AssemblyInfo.cs
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week5\Catalog.API\Catalog.DataAccess\obj\Debug\net6.0\Catalog.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week5\Catalog.API\Catalog.DataAccess\bin\Debug\net6.0\Catalog.DataAccess.deps.json
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week5\Catalog.API\Catalog.DataAccess\bin\Debug\net6.0\Catalog.DataAccess.dll
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week5\Catalog.API\Catalog.DataAccess\bin\Debug\net6.0\Catalog.DataAccess.pdb
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week5\Catalog.API\Catalog.DataAccess\bin\Debug\net6.0\Catalog.Entities.dll
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week5\Catalog.API\Catalog.DataAccess\bin\Debug\net6.0\Catalog.Entities.pdb
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week5\Catalog.API\Catalog.DataAccess\obj\Debug\net6.0\Catalog.DataAccess.csproj.CopyComplete
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week5\Catalog.API\Catalog.DataAccess\obj\Debug\net6.0\Catalog.DataAccess.dll
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week5\Catalog.API\Catalog.DataAccess\obj\Debug\net6.0\refint\Catalog.DataAccess.dll
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week5\Catalog.API\Catalog.DataAccess\obj\Debug\net6.0\Catalog.DataAccess.pdb
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\Week5\Catalog.API\Catalog.DataAccess\obj\Debug\net6.0\ref\Catalog.DataAccess.dll
