@@ -10,6 +10,10 @@ namespace Catalog.DataAccess.Repositories
     public interface IRepository<T> where T:IEntity,new() //Dogrudan veri ile calısmak, depodan verileri cekecek. T category ve product olacak
     {
         Task<IList<T>> GetAll();
-        Task<T> GetId(int id);
+        Task<T> GetById(int id);
+        Task Add(T entity);
+        Task Update(T entity);
+        Task Delete(int id);
+        Task<bool> IsExists(int id);
     }
 }

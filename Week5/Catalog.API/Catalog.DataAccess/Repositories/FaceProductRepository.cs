@@ -24,22 +24,43 @@ namespace Catalog.DataAccess.Repositories
             };
         }
 
+        public Task Add(Product entity)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task Delete(int id)
+        {
+            throw new NotImplementedException();
+        }
+
         public async Task<IList<Product>> GetAll()
         {
             return products;
         }
 
-        public Product GetId(int id)
+        public Task<Product> GetById(int id)
         {
             throw new NotImplementedException();
         }
+
 
         public Task<IEnumerable<Product>> GetProductsByName(string name)
         {
             throw new NotImplementedException();
         }
 
-        Task<Product> IRepository<Product>.GetId(int id)
+        public Task<bool> IsExists(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task Update(Product entity)
+        {
+            throw new NotImplementedException();
+        }
+
+        Task<Product> IRepository<Product>.GetById(int id)
         {
             throw new NotImplementedException();
         }

@@ -1,6 +1,8 @@
 using Catalog.Business;
 using Catalog.Business.Mapping;
+using Catalog.DataAccess.Data;
 using Catalog.DataAccess.Repositories;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,9 +13,11 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<IProductService , ProductService>();
-builder.Services.AddScoped<IProductRepository, FaceProductRepository>();
+builder.Services.AddScoped<IProductRepository, EFProductRepository>(); // veritabaný
 
 builder.Services.AddAutoMapper(typeof(MapProfile));
+builder.Services.AddDbContext<CatalogDbContext>(opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("db")));
+
 
 var app = builder.Build();
 
