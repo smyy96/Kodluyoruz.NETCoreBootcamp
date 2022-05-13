@@ -13,7 +13,7 @@ namespace Catalog.API.Filters
             this.productService=productService;
         }
 
-        public async Task OnActionExecutionAsync(ActionExecutingContext context, ActionExecutionDelegate next)
+        public async Task OnActionExecutionAsync(ActionExecutingContext context, ActionExecutionDelegate next) //  [IsExists] yazdıgımız actionların içindeki verilere erişiyor
         {
             if (!context.ActionArguments.ContainsKey("id"))
             {

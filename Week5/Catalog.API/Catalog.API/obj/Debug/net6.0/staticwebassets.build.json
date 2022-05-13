@@ -1,11 +1,37 @@
 {
   "Version": 1,
-  "Hash": "dsw+z5JRLfbvfnm4YN5rLHYjFUjigEjIU18xRsIfEX0=",
+  "Hash": "H39rtBT+l+FZO+Ry9oYEt3JWHo5Xp3TLWWw2BafoUIg=",
   "Source": "Catalog.API",
   "BasePath": "_content/Catalog.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "Catalog.API\\wwwroot",
+      "Source": "Catalog.API",
+      "ContentRoot": "C:\\Users\\Sumeyye\\source\\repos\\Kodluyoruz.NETCoreBootcamp\\Week5\\Catalog.API\\Catalog.API\\wwwroot\\",
+      "BasePath": "_content/Catalog.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Sumeyye\\source\\repos\\Kodluyoruz.NETCoreBootcamp\\Week5\\Catalog.API\\Catalog.API\\wwwroot\\error.html",
+      "SourceId": "Catalog.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sumeyye\\source\\repos\\Kodluyoruz.NETCoreBootcamp\\Week5\\Catalog.API\\Catalog.API\\wwwroot\\",
+      "BasePath": "_content/Catalog.API",
+      "RelativePath": "error.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\error.html"
+    }
+  ]
 }

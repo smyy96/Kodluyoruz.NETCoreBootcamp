@@ -5,7 +5,7 @@ namespace Catalog.API.Filters
 {
     public class IsExistsAttribute : TypeFilterAttribute
     {
-        public IsExistsAttribute() : base(typeof(IsExistOperation))
+        public IsExistsAttribute() : base(typeof(IsExistOperation)) //Attribute lerde dependency injection kullanamadıgımız için işleri IsExistOperation yaptırdık
         {
 
         }

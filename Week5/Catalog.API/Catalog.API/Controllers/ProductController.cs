@@ -29,12 +29,18 @@ namespace Catalog.API.Controllers
         }
 
 
+
+
         [HttpGet("{id}")] // id ye göre getirme
+        [IsExists]
         public async Task<IActionResult> GetProductById(int id)
         {
             ProductDisplayResponse product = await service.GetProducts(id);
             return Ok(product);
         }
+
+
+
 
         [HttpGet("Search/{key}")] //kelime ile arama yapıp getirme
         public async Task<IActionResult> Search(string key)
@@ -76,9 +82,14 @@ namespace Catalog.API.Controllers
 
 
         [HttpDelete("{id}")]
-        [IsExists]
+        [CustomException(Order = 1)]
+        [IsExists(Order =2)]
         public async Task<IActionResult> Delete(int id)
         {
+            if (id < 0 || id > 200)
+            {
+                throw new NotImplementedException("Ürün silme işlemi olmadı");
+            }
             await service.DeleteProduct(id);
             return Ok();
 
