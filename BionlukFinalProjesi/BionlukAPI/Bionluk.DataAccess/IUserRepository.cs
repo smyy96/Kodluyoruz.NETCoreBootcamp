@@ -9,6 +9,6 @@ namespace Bionluk.DataAccess
 {
     public interface IUserRepository:IRepository<User>
     {
-       Task<IEnumerable<User>> GetUsersByCategory(string name);
+       Task<IEnumerable<User>> GetUsersByName(string name);
     }
 }

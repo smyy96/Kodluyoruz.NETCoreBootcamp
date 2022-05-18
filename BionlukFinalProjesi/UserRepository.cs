@@ -34,6 +34,11 @@ namespace Bionluk.DataAccess
             throw new NotImplementedException();
         }
 
+        public Task<IEnumerable<User>> GetUsersByName(string name)
+        {
+            throw new NotImplementedException();
+        }
+
         Task<User> IRepository<User>.GetById(int id)
         {
             throw new NotImplementedException();

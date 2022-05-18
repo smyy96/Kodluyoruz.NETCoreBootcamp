@@ -11,5 +11,9 @@ namespace Bionluk.DataAccess
     {
         Task<IList<T>> GetAll();
         Task<T> GetById(int id);
+        Task AddUser(T entity);
+        Task UpdateUser(T entity);
+        Task DeleteUser(int entity);
+        Task<bool> IsExists(int id);
     }
 }

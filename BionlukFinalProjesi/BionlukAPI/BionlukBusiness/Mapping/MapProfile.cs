@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Bionluk.DataTransferObjects.Request;
 using Bionluk.DataTransferObjects.Responses;
 using Bionluk.Entities;
 using System;
@@ -14,6 +15,8 @@ namespace Bionluk.Business.Mapping
         public MapProfile()
         {
             CreateMap<User, UserDisplayResponse>();
+            CreateMap<AddUserRequest, User>();
+            CreateMap<UpdateUserRequest, User>();
         }
     }
 }
