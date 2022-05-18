@@ -1,0 +1,12 @@
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\BionlukFinalProjesi\BionlukAPI\DataTransferObjects\bin\Debug\net6.0\Bionluk.DataTransferObjects.deps.json
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\BionlukFinalProjesi\BionlukAPI\DataTransferObjects\bin\Debug\net6.0\Bionluk.DataTransferObjects.dll
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\BionlukFinalProjesi\BionlukAPI\DataTransferObjects\bin\Debug\net6.0\Bionluk.DataTransferObjects.pdb
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\BionlukFinalProjesi\BionlukAPI\DataTransferObjects\obj\Debug\net6.0\Bionluk.DataTransferObjects.csproj.AssemblyReference.cache
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\BionlukFinalProjesi\BionlukAPI\DataTransferObjects\obj\Debug\net6.0\Bionluk.DataTransferObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\BionlukFinalProjesi\BionlukAPI\DataTransferObjects\obj\Debug\net6.0\Bionluk.DataTransferObjects.AssemblyInfoInputs.cache
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\BionlukFinalProjesi\BionlukAPI\DataTransferObjects\obj\Debug\net6.0\Bionluk.DataTransferObjects.AssemblyInfo.cs
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\BionlukFinalProjesi\BionlukAPI\DataTransferObjects\obj\Debug\net6.0\Bionluk.DataTransferObjects.csproj.CoreCompileInputs.cache
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\BionlukFinalProjesi\BionlukAPI\DataTransferObjects\obj\Debug\net6.0\Bionluk.DataTransferObjects.dll
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\BionlukFinalProjesi\BionlukAPI\DataTransferObjects\obj\Debug\net6.0\refint\Bionluk.DataTransferObjects.dll
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\BionlukFinalProjesi\BionlukAPI\DataTransferObjects\obj\Debug\net6.0\Bionluk.DataTransferObjects.pdb
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\BionlukFinalProjesi\BionlukAPI\DataTransferObjects\obj\Debug\net6.0\ref\Bionluk.DataTransferObjects.dll

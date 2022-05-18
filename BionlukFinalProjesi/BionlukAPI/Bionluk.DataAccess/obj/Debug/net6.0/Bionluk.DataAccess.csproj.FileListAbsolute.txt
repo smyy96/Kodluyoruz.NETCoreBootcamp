@@ -1,0 +1,17 @@
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\BionlukFinalProjesi\BionlukAPI\Bionluk.DataAccess\obj\Debug\net6.0\Bionluk.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\BionlukFinalProjesi\BionlukAPI\Bionluk.DataAccess\obj\Debug\net6.0\Bionluk.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\BionlukFinalProjesi\BionlukAPI\Bionluk.DataAccess\obj\Debug\net6.0\Bionluk.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\BionlukFinalProjesi\BionlukAPI\Bionluk.DataAccess\obj\Debug\net6.0\Bionluk.DataAccess.AssemblyInfo.cs
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\BionlukFinalProjesi\BionlukAPI\Bionluk.DataAccess\obj\Debug\net6.0\Bionluk.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\BionlukFinalProjesi\BionlukAPI\Bionluk.DataAccess\bin\Debug\net6.0\Bionluk.DataAccess.deps.json
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\BionlukFinalProjesi\BionlukAPI\Bionluk.DataAccess\bin\Debug\net6.0\Bionluk.DataAccess.dll
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\BionlukFinalProjesi\BionlukAPI\Bionluk.DataAccess\bin\Debug\net6.0\Bionluk.DataAccess.pdb
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\BionlukFinalProjesi\BionlukAPI\Bionluk.DataAccess\bin\Debug\net6.0\Bionluk.Entities.dll
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\BionlukFinalProjesi\BionlukAPI\Bionluk.DataAccess\bin\Debug\net6.0\Bionluk.Entities.pdb
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\BionlukFinalProjesi\BionlukAPI\Bionluk.DataAccess\obj\Debug\net6.0\Bionluk.DataAccess.csproj.CopyComplete
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\BionlukFinalProjesi\BionlukAPI\Bionluk.DataAccess\obj\Debug\net6.0\Bionluk.DataAccess.dll
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\BionlukFinalProjesi\BionlukAPI\Bionluk.DataAccess\obj\Debug\net6.0\refint\Bionluk.DataAccess.dll
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\BionlukFinalProjesi\BionlukAPI\Bionluk.DataAccess\obj\Debug\net6.0\Bionluk.DataAccess.pdb
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\BionlukFinalProjesi\BionlukAPI\Bionluk.DataAccess\obj\Debug\net6.0\ref\Bionluk.DataAccess.dll
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\BionlukFinalProjesi\BionlukAPI\Bionluk.DataAccess\bin\Debug\net6.0\Bionluk.DataAccess.runtimeconfig.json
+C:\Users\Sumeyye\source\repos\Kodluyoruz.NETCoreBootcamp\BionlukFinalProjesi\BionlukAPI\Bionluk.DataAccess\obj\Debug\net6.0\Bionluk.DataAccess.genruntimeconfig.cache
